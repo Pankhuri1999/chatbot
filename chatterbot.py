@@ -1,4 +1,4 @@
-import time  # 
+import time  
 
 name = input("Namaste , what is your name? ")  # asking for the introduction by the user
 
